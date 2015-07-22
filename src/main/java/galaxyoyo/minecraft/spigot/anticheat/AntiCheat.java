@@ -53,7 +53,7 @@ public class AntiCheat extends JavaPlugin
 		}
 		config.set("Anti X-Ray", antiXRay);
 		config.set("Distance Anti X-Ray", antiXRayDistance);
-		config.set("Ant-Fly", antiFly);
+		config.set("Anti-Fly", antiFly);
 		config.set("Hauteur de fly", flyDistance);
 		List<String> disabledZonesString = new ArrayList<String>();
 		for (Location[] locs : disabledLocations)
