@@ -1,0 +1,5 @@
+name: Anti-Cheat
+main: galaxyoyo.minecraft.spigot.anticheat.AntiCheat
+version: 1.0
+author: galaxyoyo
+depend: [ProtocolLib, PacketWrapper]
